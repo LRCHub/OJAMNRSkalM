@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "さよなら",
+  "base_artist": "存流",
+  "createdAt": "2026-03-26T17:35:00.925197Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありがとうございます、さよなら。",
+      "artist": "SYLLABUS",
+      "has_synced": false,
+      "path": "select/01_ありがとうございます、さよなら。_SYLLABUS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよなら、たましいさん",
+      "artist": "pinocchioP",
+      "has_synced": false,
+      "path": "select/02_さよなら、たましいさん_pinocchioP.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよなら",
+      "artist": "Sakurako Ohara",
+      "has_synced": true,
+      "path": "select/03_さよなら_Sakurako_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "「さよなら」とたった一言で...",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/04_「さよなら」とたった一言で..._GARNET_CROW.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよなら",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/05_さよなら_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さよなら...",
+      "artist": "MADKID",
+      "has_synced": true,
+      "path": "select/06_さよなら..._MADKID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さよなら",
+      "artist": "Off Course",
+      "has_synced": true,
+      "path": "select/07_さよなら_Off_Course.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "さよなら",
+      "artist": "オフコース",
+      "has_synced": true,
+      "path": "select/08_さよなら_オフコース.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雨に消えた さよなら",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/09_雨に消えた_さよなら_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "さよなら シングル・デイズ",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/10_さよなら_シングル・デイズ_杏里.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "さよならに さよなら",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/11_さよならに_さよなら_Kaientai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "最後の\"さよなら\"",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/12_最後の_さよなら_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "さよなら シングル・デイズ",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/13_さよなら_シングル・デイズ_Anri.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "さよなら、アリス",
+      "artist": "Flower",
+      "has_synced": false,
+      "path": "select/14_さよなら、アリス_Flower.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "さよなら・夏休み",
+      "artist": "岡田有希子",
+      "has_synced": false,
+      "path": "select/15_さよなら・夏休み_岡田有希子.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "さよなら、たましいさん",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/16_さよなら、たましいさん_ピノキオピー.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "さよなら、アダムとイヴ",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/17_さよなら、アダムとイヴ_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "最後の″さよなら″",
+      "artist": "松田聖子",
+      "has_synced": false,
+      "path": "select/18_最後の′′さよなら′′_松田聖子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら",
+      "artist": "存流",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら_存流.txt"
+    }
+  ]
+}
